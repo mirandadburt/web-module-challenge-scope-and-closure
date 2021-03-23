@@ -182,7 +182,7 @@ function scoreboard(getInningScore,inning,num) {
       //this is the basic else statement 
     }
 }
-console.log(scoreboard(9));
+scoreboard(9);
 
 
 "Final Score: Away 11 - Home 12"  
